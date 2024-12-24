@@ -1,0 +1,26 @@
+regex
+ipykernel
+nltk
+numpy
+pandas
+scikit-learn
+gensim
+transformers
+datasets
+# Project1
+diffusers
+transformers
+accelerate
+torch
+matplotlib
+# Project2
+transformers[sentencepiece]
+datasets
+sacrebleu
+rouge_score
+py7zr
+evaluate
+openai
+aiogram==2.25.1
+openai==0.28
+python-dotenv
