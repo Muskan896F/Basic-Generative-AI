@@ -1,7 +1,7 @@
 regex
 ipykernel
-nltk
-numpy
+nltk==3.9.1
+numpy==1.24.4
 pandas
 scikit-learn
 gensim
@@ -9,7 +9,6 @@ transformers
 datasets
 # Project1
 diffusers
-transformers
 accelerate
 torch
 matplotlib
@@ -20,12 +19,12 @@ sacrebleu
 rouge_score
 py7zr
 evaluate
-openai
+# Telegram
 aiogram==2.25.1
 openai==0.28
 python-dotenv
+# Image Dalle
 flask
-#Langchain
 langchain
 llama-index
 pypdf
@@ -33,4 +32,15 @@ bs4
 arxiv
 pymupdf
 wikipedia
-langchain-community
+langchain_community
+huggingface_hub
+numexpr
+bitsandbytes
+sentence-transformers
+tiktoken
+faiss-cpu
+chromadb==0.4.15
+weaviate-client
+unstructured
+unstructured[pdf]
+pymupdf
