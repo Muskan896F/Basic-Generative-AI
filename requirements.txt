@@ -24,3 +24,13 @@ openai
 aiogram==2.25.1
 openai==0.28
 python-dotenv
+flask
+#Langchain
+langchain
+llama-index
+pypdf
+bs4
+arxiv
+pymupdf
+wikipedia
+langchain-community
