@@ -1,4 +1,4 @@
-#!c:\Users\HP\Basic-Generative-AI\genaip\python.exe
+#!C:\Users\HP\Basic-Generative-AI\genaip\python.exe
 """Extract pdf structure in XML format"""
 import logging
 import os.path

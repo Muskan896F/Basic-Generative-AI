@@ -44,3 +44,7 @@ weaviate-client
 unstructured
 unstructured[pdf]
 pymupdf
+transformers
+einops
+accelerate 
+langchain-google-genai
